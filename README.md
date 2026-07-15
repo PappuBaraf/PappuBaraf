@@ -1,20 +1,131 @@
-👋 Hey there! I’m Pappu Baraf, a computer science engineering student with a passion for coding and problem-solving. 
-    Here’s a glimpse into my world:
+# <h1 align="center">Hi 👋, I'm Pappu Baraf</h1>
 
--🌱 Currently, I’m diving deep into computer science engineering, exploring algorithms, data structures, and software development.
+<h3 align="center">🎓 B.E. Computer Science Engineering (Artificial Intelligence & Machine Learning)</h3>
 
--💻 My toolbox includes languages like C, Java, JavaScript, Python, HTML, and CSS. 
-     I love building cool stuff and turning ideas into code!
-     
--🤖 Fascinated by artificial intelligence and machine learning,
-    I’m on a quest to understand how machines can learn and make intelligent decisions.
-    
--🚀 Looking to collaborate with like-minded folks on exciting projects. 
-    Let’s create something awesome together!
-    
--📫 Reach me via email at pappurbphotos@gmail.com or connect on LinkedIn (https://www.linkedin.com/in/pappubaraf25?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwyVLEXZNSUu5f0MRXY%2Bn%2Fg%3D%3D)
-    
-- Fun fact: I once wrote a program that generated random haikus about binary trees. 🌳📝
+<p align="center">
+💡 AI & ML Enthusiast • Deep Learning • NLP • Blockchain • Full-Stack Development
+</p>
 
-   Keep coding, stay curious, and let’s build the future! 🚀✨
-   -->
+<p align="center">
+<a href="https://github.com/PappuBaraf"><img src="https://img.shields.io/badge/GitHub-PappuBaraf-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://in.linkedin.com/in/pappubarafaiml"><img src="https://img.shields.io/badge/LinkedIn-Pappu%20Baraf-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+---
+
+## 🚀 About Me
+
+* 🎓 Final Year B.E. Computer Science Engineering (AI & ML)
+* 🤖 Passionate about Artificial Intelligence & Machine Learning
+* 🧠 Exploring Deep Learning, Computer Vision & Large Language Models (LLMs)
+* 💬 Building NLP and Generative AI applications
+* ⛓️ Learning Blockchain & Smart Contracts
+* 🌐 Developing AI-powered Full-Stack Web Applications
+* ☁️ Exploring AWS Cloud Computing
+* 🌱 Lifelong learner and Open Source enthusiast
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+### 🤖 AI / Machine Learning
+
+TensorFlow • Keras • Scikit-learn • Pandas • NumPy • OpenCV • Matplotlib
+
+### 🌐 Web Development
+
+HTML • CSS • JavaScript • React • FastAPI • Node.js • Express
+
+### 🗄️ Databases
+
+MySQL • PostgreSQL • MongoDB
+
+### ☁️ Tools & Platforms
+
+Git • GitHub • Docker • VS Code • Jupyter Notebook • Google Colab • AWS
+
+---
+
+## 📌 Featured Projects
+
+* 🧠 Deep Learning Projects
+* 🤖 Machine Learning Projects
+* 💬 NLP Chatbot
+* 🐦 Bird Species Classification
+* ⛓️ Blockchain Property Platform
+* 🌐 AI Web Applications
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PappuBaraf&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PappuBaraf&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=PappuBaraf&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PappuBaraf&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PappuBaraf&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* Generative AI
+* Large Language Models (LLMs)
+* RAG Applications
+* Multi-Agent AI Systems
+* MLOps
+* Advanced Deep Learning
+
+---
+
+## 🎯 Career Goal
+
+To build impactful AI-powered software that solves real-world problems while growing as an AI/ML Engineer and contributing to the open-source community.
+
+---
+
+## 🌐 Connect With Me
+
+* 💻 GitHub: https://github.com/PappuBaraf
+* 💼 LinkedIn: https://in.linkedin.com/in/pappubarafaiml
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=PappuBaraf&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+⭐ <b>“Building Intelligent Solutions with AI, One Project at a Time.”</b>
+</p>
