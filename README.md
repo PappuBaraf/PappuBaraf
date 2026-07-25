@@ -65,27 +65,10 @@ Git • GitHub • Docker • VS Code • Jupyter Notebook • Google Colab • 
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PappuBaraf&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PappuBaraf&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=PappuBaraf&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PappuBaraf&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
